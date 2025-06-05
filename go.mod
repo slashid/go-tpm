@@ -1,4 +1,4 @@
-module github.com/google/go-tpm
+module github.com/slashid/go-tpm
 
 go 1.22
 
